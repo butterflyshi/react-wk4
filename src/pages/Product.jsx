@@ -14,7 +14,7 @@ function Product() {
     return (
         <div className="container mx-auto main-layout bg-gray-900">
             <Helmet>
-                <title>product</title>
+                <title>BA-DEE-YA</title>
             </Helmet>
             <Header
                 title= "Product Detail"
